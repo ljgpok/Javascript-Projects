@@ -8,6 +8,11 @@ const projects = [
 		name: 'movie-booking',
 		github:
 			'https://github.com/t1gula00/Javascript-Projects/tree/master/movie-booking'
+	},
+	{
+		name: 'exchange-rate',
+		github:
+			'https://github.com/t1gula00/Javascript-Projects/tree/master/exchange-rate'
 	}
 ];
 
