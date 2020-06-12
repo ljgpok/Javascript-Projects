@@ -13,6 +13,11 @@ const projects = [
 		name: 'exchange-rate',
 		github:
 			'https://github.com/t1gula00/Javascript-Projects/tree/master/exchange-rate'
+	},
+	{
+		name: 'new-year-countdown',
+		github:
+			'https://github.com/t1gula00/Javascript-Projects/tree/master/new-year-countdown'
 	}
 ];
 
