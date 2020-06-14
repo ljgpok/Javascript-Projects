@@ -18,6 +18,11 @@ const projects = [
 		name: 'new-year-countdown',
 		github:
 			'https://github.com/t1gula00/Javascript-Projects/tree/master/new-year-countdown'
+	},
+	{
+		name: 'dom-array-methods',
+		github:
+			'https://github.com/t1gula00/Javascript-Projects/tree/master/dom-array-methods'
 	}
 ];
 
