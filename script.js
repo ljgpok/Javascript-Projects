@@ -23,6 +23,11 @@ const projects = [
 		name: 'dom-array-methods',
 		github:
 			'https://github.com/t1gula00/Javascript-Projects/tree/master/dom-array-methods'
+	},
+	{
+		name: 'expense-tracker',
+		github:
+			'https://github.com/t1gula00/Javascript-Projects/tree/master/expense-tracker'
 	}
 ];
 
