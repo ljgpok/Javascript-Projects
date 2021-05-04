@@ -1,5 +1,10 @@
 const projects = [
 	{
+		name: 'football-highlights',
+		github:
+			'https://github.com/t1gula00/Javascript-Projects/tree/master/football-highlights'
+	},
+	{
 		name: 'form-validator',
 		github:
 			'https://github.com/t1gula00/Javascript-Projects/tree/master/form-validator'
